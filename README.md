@@ -73,13 +73,4 @@ See: `Raport.pdf`
 
 ---
 
-# 📌 Version
-
-**v1.0 – 2026**
-
-Responsible AI is not a one-time decision.  
-It is an ongoing governance responsibility.
-
----
-
 © 2026 Katarzyn
