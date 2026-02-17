@@ -1,58 +1,83 @@
-# AI Implementation Decision Framework
+# 🧭 AI Implementation Decision Framework
 
-A structured governance-first framework designed to help non-technical decision-makers determine whether and how AI should be implemented responsibly.
-
-## 🎯 Purpose
-
-This framework prevents premature AI adoption by introducing mandatory validation gates before deployment. It ensures:
-
-- Business justification
-- Data readiness
-- Risk & governance validation
-- Controlled pilot testing
-- Responsible production deployment
-
-AI implementation is treated as a management decision — not a technology experiment.
+A governance-oriented decision support model helping non-technical leaders determine **whether AI should be implemented — and under what conditions.**
 
 ---
 
-## 🧭 Framework Overview
+## 🖼 Executive Visual Overview
 
-The model follows a conditional decision pathway:
+Below is a high-level visualization of the framework’s structured decision checkpoints.
 
-1. Define primary business objective
-2. Validate AI justification conditions
-3. Apply recommended implementation safeguards
-4. Perform Risk & Governance check
-5. Pilot before scaling
-6. Confirm responsible deployment conditions
-
-If any condition fails, process optimization precedes technology adoption.
+![Framework Overview](assets/framework-overview.png)
 
 ---
 
-## 🔍 Designed For
+## 🎯 What It Solves
 
-- Non-technical leaders
-- Compliance & governance professionals
-- Regulated industries
-- AI governance practitioners
+Organizations often adopt AI without validating:
 
----
+- Data readiness  
+- Governance structure  
+- Operational risk  
+- Accountability ownership  
 
-## ⚖️ Governance Principles
+This framework introduces structured validation gates **before AI adoption.**
 
-- Human accountability remains assigned
-- Monitoring is mandatory
-- Fully autonomous deployment is discouraged
-- Explainability and fallback mechanisms are required
+AI implementation is treated as a **management decision — not a technology experiment.**
 
 ---
 
-## 🌐 Interactive Version
-View the live interactive framework here:
-https://view.genially.com/6990a8fa89a5fc012454209c
+## 🧩 What It Includes
 
-## 📄 License
+- Conditional decision pathways  
+- Objective-based validation checkpoints  
+- Risk & governance review stage  
+- Pilot-before-scale safeguards  
+- Responsible deployment conditions  
+
+---
+
+## 🏗 Framework Structure
+
+The model follows a structured decision pathway:
+
+1. Define Primary Business Objective  
+2. Validate AI Justification Conditions  
+3. Apply Implementation Safeguards  
+4. Conduct Risk & Governance Check  
+5. Pilot Before Scaling  
+6. Confirm Responsible Deployment Conditions  
+
+If any condition fails, **process optimization precedes technology adoption.**
+
+---
+
+## 👥 Designed For
+
+- Non-technical leaders  
+- Compliance & governance professionals  
+- Regulated industries  
+- AI governance practitioners  
+
+---
+
+## 📂 Access the Framework
+
+📄 **Full Report (PDF)**  
+See: `AI_Implementation_Decision_Framework.pdf`
+
+🌐 **Interactive Version**  
+[View Interactive Framework](https://view.genially.com/6990a8fa89a5fc012454209c)
+
+---
+
+## 📌 Version
+
+**v1.0 – 2026**
+
+Responsible AI is not a one-time decision.  
+It is an ongoing governance responsibility.
+
+---
 
 © 2026 Katarzyn
