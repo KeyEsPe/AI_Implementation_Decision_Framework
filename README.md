@@ -6,7 +6,7 @@ A structured decision support framework helping leaders determine **whether AI s
 
 ---
 
-# 🖼 Executive Visual Overview
+## Executive Visual Overview
 
 Below is a high-level visualization of the framework’s structured decision checkpoints.
 
@@ -39,7 +39,7 @@ AI implementation is treated as a **management decision — not a technology exp
 
 ---
 
-# 🏗 Framework Structure
+## Framework Structure
 
 The model follows a structured pathway:
 
