@@ -14,7 +14,7 @@ Below is a high-level visualization of the framework’s structured decision che
 
 ---
 
-# 🎯 What It Solves
+## What It Solves
 
 Organizations often adopt AI without validating:
 
@@ -29,7 +29,7 @@ AI implementation is treated as a **management decision — not a technology exp
 
 ---
 
-# 🧩 What It Includes
+## What It Includes
 
 - Conditional decision pathways  
 - Objective-based validation checkpoints  
@@ -54,7 +54,7 @@ If any condition fails, **process optimization precedes technology adoption.**
 
 ---
 
-# 👥 Designed For
+## Designed For
 
 - Non-technical leaders  
 - Compliance & governance professionals  
@@ -63,7 +63,7 @@ If any condition fails, **process optimization precedes technology adoption.**
 
 ---
 
-# 📂 Access the Framework
+## Access the Framework
 
 📄 **Full Report (PDF)**  
 See: `Raport.pdf`
